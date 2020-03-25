@@ -28,7 +28,7 @@
     "idam": {
       "idamApiUrl": "http://sidam-api:4501",
       "idamClientID": "ccd_gateway",
-      "idamLoginUrl": "http://idam-web-public:3501",
+      "idamLoginUrl": "http://localhost:5555",
       "indexUrl": "/",
       "oauthCallbackUrl": "oauth2/callback"
     }

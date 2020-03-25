@@ -21,7 +21,7 @@ export default {
         idam: {
             idamApiUrl: 'http://localhost:5000',
             idamClientID: 'ccd_gateway',
-            idamLoginUrl: 'http://localhost:3501',
+            idamLoginUrl: 'http://localhost:5555',
             indexUrl: '/',
             oauthCallbackUrl: 'oauth2/callback',
         },
